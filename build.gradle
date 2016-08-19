@@ -16,8 +16,8 @@ allprojects {
 
   ext {
     // Android config
-    androidBuildToolsVersion = '23.0.2'
-    androidMinSdkVersion = 16
+    androidBuildToolsVersion = '23.0.3'
+    androidMinSdkVersion = 19
     androidTargetSdkVersion = 23
     androidCompileSdkVersion = 23
     androidApplicationId = 'me.panavtec.cleancontacts'
